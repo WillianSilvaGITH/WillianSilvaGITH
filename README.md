@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em%20c%C3%B3digo-000000?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Foco-Web%20%26%20Git-111111?style=for-the-badge&logo=codeforces" />
+  <img src="https://img.shields.io/badge/Foco-Web%20%26%20Git-1A1A1A?style=for-the-badge&logo=codeforces" />
 </p>
 
 ---
@@ -13,8 +13,8 @@
 Sou desenvolvedor focado em criar projetos limpos, funcionais e bem organizados.
 
 - Gosto de interfaces minimalistas.
-- Estou sempre a melhorar os meus desenvolvimentos.
-- Prefiro qualidade e clareza do que excesso.
+- Estou sempre a melhorar minhas habilidades.
+- Prefiro qualidade e clareza em vez de excesso.
 
 ---
 
@@ -31,7 +31,7 @@ Sou desenvolvedor focado em criar projetos limpos, funcionais e bem organizados.
 
 ## Contato
 - GitHub: [@WillianSilvaGITH](https://github.com/WillianSilvaGITH)
-- Email: willian.silva.wedigitek@gmail.com
+- Email: [willian.silva.wedigitek@gmail.com](mailto:willian.silva.wedigitek@gmail.com)
 
 ---
 
