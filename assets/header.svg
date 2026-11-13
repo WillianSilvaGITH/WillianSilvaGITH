@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Olá, Mundo — programador a vigiar o código de noite">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#07080a"/>
+      <stop offset="0.6" stop-color="#12151a"/>
+      <stop offset="1" stop-color="#1b2027"/>
+    </linearGradient>
+    <radialGradient id="moon" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffe9a8" stop-opacity="0.95"/>
+      <stop offset="0.35" stop-color="#f5c518" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#f5c518" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="beam" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#f5c518" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#f5c518" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" fill="url(#sky)"/>
+  <circle cx="930" cy="95" r="130" fill="url(#moon)"/>
+  <circle cx="930" cy="95" r="34" fill="#f3e3a3" opacity="0.9"/>
+  <polygon points="150,320 215,320 330,0 260,0" fill="url(#beam)" opacity="0.55"/>
+  <g fill="#050607">
+    <rect x="0" y="210" width="70" height="110"/>
+    <rect x="70" y="170" width="55" height="150"/>
+    <rect x="125" y="230" width="80" height="90"/>
+    <rect x="205" y="150" width="60" height="170"/>
+    <polygon points="265,320 265,120 285,95 305,120 305,320"/>
+    <rect x="305" y="200" width="90" height="120"/>
+    <rect x="395" y="160" width="50" height="160"/>
+    <rect x="445" y="225" width="75" height="95"/>
+    <rect x="520" y="130" width="64" height="190"/>
+    <rect x="584" y="190" width="70" height="130"/>
+    <rect x="654" y="235" width="90" height="85"/>
+    <rect x="744" y="170" width="58" height="150"/>
+    <polygon points="802,320 802,140 830,100 858,140 858,320"/>
+    <rect x="858" y="205" width="85" height="115"/>
+    <rect x="943" y="150" width="55" height="170"/>
+    <rect x="998" y="225" width="80" height="95"/>
+    <rect x="1078" y="165" width="60" height="155"/>
+    <rect x="1138" y="215" width="62" height="105"/>
+  </g>
+  <g fill="#f5c518" opacity="0.8">
+    <rect x="82" y="190" width="6" height="8"/><rect x="100" y="215" width="6" height="8"/>
+    <rect x="218" y="170" width="6" height="8"/><rect x="236" y="200" width="6" height="8"/>
+    <rect x="535" y="150" width="6" height="8"/><rect x="552" y="185" width="6" height="8"/><rect x="535" y="220" width="6" height="8"/>
+    <rect x="757" y="190" width="6" height="8"/><rect x="772" y="230" width="6" height="8"/>
+    <rect x="958" y="170" width="6" height="8"/><rect x="975" y="205" width="6" height="8"/>
+    <rect x="1092" y="185" width="6" height="8"/><rect x="1110" y="240" width="6" height="8"/>
+    <rect x="410" y="180" width="6" height="8"/><rect x="598" y="215" width="6" height="8"/>
+  </g>
+  <g stroke="#8a95a3" stroke-width="1" opacity="0.28">
+    <line x1="40" y1="0" x2="30" y2="30"/><line x1="130" y1="20" x2="120" y2="50"/>
+    <line x1="410" y1="0" x2="400" y2="30"/><line x1="470" y1="60" x2="460" y2="90"/>
+    <line x1="700" y1="10" x2="690" y2="40"/><line x1="760" y1="70" x2="750" y2="100"/>
+    <line x1="1060" y1="5" x2="1050" y2="35"/><line x1="1150" y1="50" x2="1140" y2="80"/>
+    <line x1="620" y1="100" x2="610" y2="130"/><line x1="340" y1="90" x2="330" y2="120"/>
+  </g>
+  <text x="600" y="150" text-anchor="middle" font-family="Impact, 'Oswald', 'Arial Narrow', sans-serif" font-size="74" letter-spacing="10" fill="#f2f2f2" stroke="#000" stroke-width="2" paint-order="stroke">OLÁ, MUNDO</text>
+  <text x="600" y="188" text-anchor="middle" font-family="'Courier New', monospace" font-size="19" letter-spacing="4" fill="#f5c518">&gt;_ programador · turno da noite · a vigiar o código</text>
+  <rect x="0" y="316" width="1200" height="4" fill="#f5c518"/>
+</svg>
