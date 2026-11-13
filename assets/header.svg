@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Willian Silva — Desenvolvedor. Painel de status: função desenvolvedor, foco web e Git, stack JavaScript, HTML, CSS e Python, local Setúbal.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#03030a"/>
+      <stop offset="1" stop-color="#0b0722"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4aa8ff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#7cc4ff"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="win" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1f4a" stop-opacity="0.82"/>
+      <stop offset="1" stop-color="#080f2a" stop-opacity="0.9"/>
+    </linearGradient>
+    <filter id="smoke" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="28"/></filter>
+    <filter id="wisp" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="7"/></filter>
+    <filter id="glow" x="-10%" y="-10%" width="120%" height="120%"><feGaussianBlur stdDeviation="5"/></filter>
+  </defs>
+
+  <rect width="1200" height="340" fill="url(#bg)"/>
+
+  <g filter="url(#smoke)">
+    <ellipse cx="170" cy="300" rx="260" ry="90" fill="#5b21b6" opacity="0.55"/>
+    <ellipse cx="430" cy="320" rx="240" ry="70" fill="#7c3aed" opacity="0.4"/>
+    <ellipse cx="90" cy="130" rx="150" ry="110" fill="#4c1d95" opacity="0.5"/>
+    <ellipse cx="520" cy="90" rx="180" ry="80" fill="#3b1a8a" opacity="0.4"/>
+  </g>
+  <g fill="none" stroke="#a78bfa" stroke-linecap="round" filter="url(#wisp)">
+    <path d="M60 340C20 270 110 240 70 170S130 80 90 20" stroke-width="12" opacity="0.28"/>
+    <path d="M210 340C170 290 260 250 220 190S280 110 250 40" stroke-width="10" opacity="0.22"/>
+    <path d="M380 340C350 300 430 260 400 210S450 140 430 80" stroke-width="9" opacity="0.2"/>
+  </g>
+  <g fill="#c4b5fd">
+    <circle cx="60" cy="210" r="2" opacity="0.6"/><circle cx="150" cy="120" r="1.6" opacity="0.5"/>
+    <circle cx="260" cy="250" r="2.2" opacity="0.5"/><circle cx="340" cy="70" r="1.6" opacity="0.4"/>
+    <circle cx="430" cy="190" r="2" opacity="0.45"/><circle cx="520" cy="280" r="1.6" opacity="0.4"/>
+    <circle cx="590" cy="60" r="1.6" opacity="0.35"/><circle cx="120" cy="290" r="1.8" opacity="0.5"/>
+  </g>
+
+  <text x="70" y="150" font-family="'Segoe UI', 'Trebuchet MS', Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="6" fill="#a78bfa" opacity="0.55" filter="url(#glow)">WILLIAN</text>
+  <text x="70" y="150" font-family="'Segoe UI', 'Trebuchet MS', Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="6" fill="#f1ecff">WILLIAN</text>
+  <text x="70" y="222" font-family="'Segoe UI', 'Trebuchet MS', Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="6" fill="#a78bfa" opacity="0.55" filter="url(#glow)">SILVA</text>
+  <text x="70" y="222" font-family="'Segoe UI', 'Trebuchet MS', Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="6" fill="#f1ecff">SILVA</text>
+  <rect x="72" y="246" width="330" height="2" fill="url(#edge)"/>
+  <text x="72" y="276" font-family="'Courier New', monospace" font-size="16" letter-spacing="5" fill="#8fb8ff">DESENVOLVEDOR · WEB</text>
+
+  <rect x="700" y="46" width="430" height="248" fill="none" stroke="#4aa8ff" stroke-width="4" opacity="0.55" filter="url(#glow)"/>
+  <rect x="700" y="46" width="430" height="248" fill="url(#win)" stroke="#5db4ff" stroke-width="1.5"/>
+  <rect x="704" y="50" width="422" height="240" fill="none" stroke="#5db4ff" stroke-opacity="0.25" stroke-width="1"/>
+  <rect x="700" y="46" width="430" height="40" fill="#1b3a7a" fill-opacity="0.45"/>
+  <rect x="700" y="86" width="430" height="1.5" fill="#7cc4ff" opacity="0.8"/>
+  <text x="915" y="73" text-anchor="middle" font-family="'Courier New', monospace" font-size="18" font-weight="bold" letter-spacing="8" fill="#d6ebff">PERFIL</text>
+  <rect x="716" y="60" width="8" height="8" transform="rotate(45 720 64)" fill="#7cc4ff"/>
+  <rect x="1106" y="60" width="8" height="8" transform="rotate(45 1110 64)" fill="#7cc4ff"/>
+
+  <g font-family="'Courier New', monospace" font-size="17" letter-spacing="2">
+    <text x="728" y="124" fill="#7aa6e0">NOME</text><text x="860" y="124" fill="#eaf2ff">Willian Silva</text>
+    <text x="728" y="162" fill="#7aa6e0">FUNÇÃO</text><text x="860" y="162" fill="#eaf2ff">Desenvolvedor</text>
+    <text x="728" y="200" fill="#7aa6e0">FOCO</text><text x="860" y="200" fill="#eaf2ff">Web &amp; Git</text>
+    <text x="728" y="238" fill="#7aa6e0">STACK</text><text x="860" y="238" fill="#eaf2ff" font-size="15">JS · HTML · CSS · Python</text>
+    <text x="728" y="276" fill="#7aa6e0">LOCAL</text><text x="860" y="276" fill="#eaf2ff">Setúbal</text>
+  </g>
+  <g stroke="#5db4ff" stroke-opacity="0.18">
+    <line x1="720" y1="138" x2="1110" y2="138"/><line x1="720" y1="176" x2="1110" y2="176"/>
+    <line x1="720" y1="214" x2="1110" y2="214"/><line x1="720" y1="252" x2="1110" y2="252"/>
+  </g>
+  <g fill="none" stroke="#bfe0ff" stroke-width="2.5">
+    <path d="M700 70V46H724"/><path d="M1106 46H1130V70"/>
+    <path d="M700 270V294H724"/><path d="M1106 294H1130V270"/>
+  </g>
+  <rect x="0" y="337" width="1200" height="3" fill="url(#edge)"/>
+</svg>
